@@ -128,7 +128,7 @@ da_pinn/
 ### 1 — Clone the repository
 
 ```bash
-git clone https://github.com/uzzal2200/Physics-Informed-Neural-Network-for-Wind-Turbine-Power-Curve-Modeling-Under-Icing-and-Degradation.git
+git clone https://github.com/uzzal2200/Wind-Turbine-Power-Curve.git
 
 ```
 
